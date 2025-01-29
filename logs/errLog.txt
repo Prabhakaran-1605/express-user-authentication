@@ -1,0 +1,127 @@
+25012025	19:49:15	b07a8903-a45f-46e7-a6f3-defa184d4419	Error: Not allowed by cors
+25012025	19:49:15	66bd6923-8349-479c-8bef-ca17af44003a	Error: Not allowed by cors
+25012025	19:49:15	fdad8ef5-d5da-44d9-a492-72204c244bad	Error: Not allowed by cors
+25012025	19:49:15	253611fd-d673-4fe9-b18f-fce118f0c0f9	Error: Not allowed by cors
+25012025	19:49:15	7dd1ed29-b630-4556-b956-2be31b187b3f	Error: Not allowed by cors
+25012025	19:49:16	fa8e12b8-0d5b-429b-b068-d8e5d1051920	Error: Not allowed by cors
+25012025	19:49:16	d19cc97b-ffdb-40b6-a16f-49c30532d1b4	Error: Not allowed by cors
+25012025	19:50:58	619fd5ee-6e21-4a03-9b6c-5d695036b470	Error: Not allowed by cors
+25012025	19:50:58	c153baa7-a6b3-4533-8be5-5d7ee3850b29	Error: Not allowed by cors
+25012025	19:50:58	bb87c6f2-a1d0-4761-b705-aac0103974c6	Error: Not allowed by cors
+25012025	19:50:58	8c328b05-d3aa-459c-8bb8-a6af5545e744	Error: Not allowed by cors
+25012025	19:50:59	b62fafce-3cd9-4440-84f6-2905a88687a5	Error: Not allowed by cors
+25012025	19:50:59	6d917b65-e05a-49d8-97bb-d264a16e64ad	Error: Not allowed by cors
+25012025	19:50:59	0de47359-1603-4ea5-a5dd-1c92f27a15a5	Error: Not allowed by cors
+25012025	19:52:22	aa34eec1-c7fc-40af-8c29-c5479af345f4	Error: Not allowed by cors
+25012025	19:52:31	32ffc6a6-5d4c-48ee-a37e-e6d2d9bc17c2	Error: Not allowed by cors
+25012025	19:52:31	0d0dd80d-2b8a-435e-99b2-dbeb1bcd2f89	Error: Not allowed by cors
+25012025	19:52:31	e2e0f34c-4f0f-4e01-a314-21cd449d78c0	Error: Not allowed by cors
+25012025	19:52:32	2c9eacfe-c77b-471d-a03e-0494500ba6e4	Error: Not allowed by cors
+25012025	19:52:32	c204c318-d530-4a96-95e5-22c099ade62a	Error: Not allowed by cors
+25012025	19:52:32	dc0e663e-bf63-4651-b505-f0002287d135	Error: Not allowed by cors
+25012025	19:52:55	db8aa82c-011f-43ec-ab47-00e9b9d83e6a	Error: Not allowed by cors
+25012025	19:52:56	e2b959bc-735c-4ef2-b506-5963590ab54c	Error: Not allowed by cors
+25012025	19:52:56	e4b92729-d89f-4dd2-96ac-cc5128b915b0	Error: Not allowed by cors
+25012025	19:54:06	7a379307-2e9c-47c8-a6e2-93aa09d02d46	Error: Not allowed by cors
+25012025	19:54:07	fb8ba094-c382-4aa3-a348-d802dd66b188	Error: Not allowed by cors
+25012025	19:54:07	6a44f696-777d-45dd-8741-518531adcd60	Error: Not allowed by cors
+25012025	19:54:07	176e94d3-bea9-4f43-aadb-0637682d09a2	Error: Not allowed by cors
+25012025	19:54:07	90c42ddc-8070-4fc3-a288-274d287b4f44	Error: Not allowed by cors
+25012025	19:54:07	a9bf3f90-03af-4ff7-a648-80c730949b66	Error: Not allowed by cors
+25012025	19:56:26	519b65d4-64dc-4d1d-a7f4-0fe1451f5eff	Error: Not allowed by cors
+25012025	19:56:26	acc9a853-5b9e-471b-8934-c9674471195a	Error: Not allowed by cors
+25012025	19:56:26	3ba234e7-7222-45da-a46d-d0ec4b50d5ae	Error: Not allowed by cors
+25012025	19:56:27	11d52fd1-3dad-4b38-a7a1-bbfa891644f9	Error: Not allowed by cors
+25012025	19:56:27	21f0a8ed-8af6-499a-8bde-92fc8b4dd5ce	Error: Not allowed by cors
+25012025	19:56:27	63e76124-561e-4bd0-8271-799cbb38d805	Error: Not allowed by cors
+25012025	19:56:27	2b55e372-56bd-432a-a55f-d73d45294423	Error: Not allowed by cors
+25012025	19:56:27	6a84ab69-cca7-4ea3-9df4-c8e4e2128019	Error: Not allowed by cors
+25012025	19:56:27	47c4e35a-13e0-4aaf-baf1-269b4210e88c	Error: Not allowed by cors
+25012025	19:56:38	8b59aa01-ac9d-4edc-93ca-0cf493f1f33d	Error: Not allowed by cors
+25012025	19:56:41	fc96cd0d-e463-4a81-b6c2-fca55bf6332f	Error: Not allowed by cors
+25012025	19:56:41	80e8752d-00dd-45f1-993b-9551004483c7	Error: Not allowed by cors
+25012025	19:56:41	e46389be-5f2e-4c59-8a61-147f981aa16b	Error: Not allowed by cors
+25012025	19:56:42	3ac352d3-fa8b-4fde-be99-b55659c7baf4	Error: Not allowed by cors
+25012025	19:56:42	550c7f8b-80fd-47a5-a73a-8dca9fd7ea26	Error: Not allowed by cors
+25012025	19:56:55	e7537171-131f-4246-b7dc-10e7125adf11	Error: Not allowed by cors
+25012025	19:56:55	9d6bd521-97d0-495b-9848-d7931dcb8f11	Error: Not allowed by cors
+25012025	19:56:58	3003a95c-147e-4951-9483-f3555e1496e2	Error: Not allowed by cors
+25012025	19:56:59	4cc53097-3d8d-4d6a-ae93-9a719b0cff56	Error: Not allowed by cors
+25012025	19:56:59	309288b0-bbe6-4353-abb7-c146a8b3e3d2	Error: Not allowed by cors
+25012025	19:56:59	f111a993-f489-47ba-b7bb-72ee86202c92	Error: Not allowed by cors
+25012025	19:56:59	f02613d4-a63e-40e5-b1da-b117208f915f	Error: Not allowed by cors
+25012025	19:57:28	4d1b4727-7a03-4c72-9f5b-3e61faa77ae6	Error: Not allowed by cors
+25012025	19:57:28	8bfa7268-8149-4328-a948-2b56888c85fa	Error: Not allowed by cors
+25012025	19:57:35	77310ee0-0a06-488a-bb22-74bdee054699	Error: Not allowed by cors
+25012025	19:57:35	77185d4d-9e40-40b6-b852-2e70078b2f54	Error: Not allowed by cors
+25012025	19:57:36	f9a8ae05-3bfb-41cb-861e-a0425b59f44f	Error: Not allowed by cors
+25012025	19:57:36	d8e28209-0ac4-4b9c-a1c5-9984c0a9d7eb	Error: Not allowed by cors
+25012025	19:57:36	1c4a86d9-9a2a-43a4-b259-ba6b8369cf4c	Error: Not allowed by cors
+25012025	19:57:36	24e80adb-6c79-496d-a6a8-46cb6f973503	Error: Not allowed by cors
+25012025	19:58:18	87490cce-db91-44e2-a51a-7f81271584ef	Error: Not allowed by cors
+25012025	19:58:18	af7a5843-238c-402f-9f56-8e76faedd325	Error: Not allowed by cors
+25012025	19:58:19	59533324-1289-4086-8a2e-40cd60dd5187	Error: Not allowed by cors
+25012025	19:58:30	59f453cb-0b96-4825-9f3d-8223907098ec	Error: Not allowed by cors
+25012025	19:58:31	ab274846-2cc3-445c-9581-048f73c24830	Error: Not allowed by cors
+25012025	19:58:31	ad702313-29af-4dc3-9e43-3fa6be66d0f7	Error: Not allowed by cors
+25012025	19:58:31	4480a2a4-fc5a-4c12-befb-3ab13e9b2f7b	Error: Not allowed by cors
+25012025	19:58:31	cc7c27e2-3ef8-4283-b513-d9816a507a59	Error: Not allowed by cors
+25012025	19:58:31	83bbc734-8c76-4d4f-9061-0893c4aca4b2	Error: Not allowed by cors
+25012025	19:58:33	779e3eed-45ed-4b65-b855-55d52b0fdb31	Error: Not allowed by cors
+25012025	19:58:34	74e89949-a3b1-4c23-9446-0e40bacda4cf	Error: Not allowed by cors
+25012025	19:58:34	bd46a5f2-ea6e-4e3c-a494-01896371ee5d	Error: Not allowed by cors
+25012025	19:58:34	81d094e0-a5e7-4c25-8a57-fcca0ba9d026	Error: Not allowed by cors
+25012025	19:58:34	37803506-15fe-4667-89fc-606017b4fae4	Error: Not allowed by cors
+25012025	19:58:58	40009aa3-3526-480f-85c9-174d9c2c62d4	Error: Not allowed by cors
+25012025	19:58:58	a9e134bf-33fd-4ff3-8bed-c89e457c8465	Error: Not allowed by cors
+25012025	19:58:58	55a4b6f4-b88b-408b-ac21-6171a24f9d50	Error: Not allowed by cors
+25012025	19:59:02	1d26bfb3-5786-4b16-9b51-a09c355ba972	Error: Not allowed by cors
+25012025	19:59:02	b552590c-2030-4931-bef4-c800f434dea9	Error: Not allowed by cors
+25012025	19:59:02	05438086-42a3-4008-94d3-2d5b5e981f66	Error: Not allowed by cors
+25012025	19:59:03	d4560287-8ab4-4374-8c87-9a1a1b712d8a	Error: Not allowed by cors
+25012025	19:59:03	6e77c51f-d39b-4ef0-83a0-251a3aa0b373	Error: Not allowed by cors
+25012025	20:01:26	e0174a1c-94e3-4c39-b38d-e5e489733362	Error: Not allowed by cors
+25012025	20:01:26	f750be12-33fb-4810-9e55-9b57d78dfe75	Error: Not allowed by cors
+25012025	20:01:42	54c952ce-86f0-4410-9154-0606be3a0772	Error: Not allowed by cors
+25012025	20:02:04	972b0ee1-6fa9-466e-9479-c57d5edbc041	Error: Not allowed by cors
+25012025	20:02:04	6c3679cf-0792-4af3-b707-df714d8d5573	Error: Not allowed by cors
+25012025	20:02:05	c23647f4-94cb-41f9-81d0-8dc8b01fc2a7	Error: Not allowed by cors
+25012025	20:02:13	3ba8f177-7934-4016-ac84-1910210a5729	Error: Not allowed by cors
+25012025	20:02:14	bba7e05f-8473-42e6-8074-150bfc78eaba	Error: Not allowed by cors
+25012025	20:02:14	f5460216-50d2-4c4f-8677-b3575a5e067c	Error: Not allowed by cors
+25012025	20:02:14	4cbf2427-6c39-47f3-96e0-b075a195f238	Error: Not allowed by cors
+25012025	20:02:14	285b0a72-2653-4ba7-8661-51b9e4203b2c	Error: Not allowed by cors
+25012025	20:02:14	ad3b598c-10fc-41f3-a80d-e6fead096517	Error: Not allowed by cors
+25012025	20:02:14	13e14bd1-14d6-42d5-9af1-bbebf6ef471b	Error: Not allowed by cors
+25012025	20:02:15	3091724c-d268-444b-b95e-4d315a213ae7	Error: Not allowed by cors
+25012025	20:02:15	da2da0b6-8fbf-454c-9698-114afb14eb5c	Error: Not allowed by cors
+25012025	20:02:15	efed851a-6b3b-4ac4-93d0-4b8fa3296c27	Error: Not allowed by cors
+25012025	20:02:15	268773d6-574b-426e-a23c-76be5c74be9b	Error: Not allowed by cors
+25012025	20:02:15	44d5b39b-f373-44cb-b6aa-d7277f8845b4	Error: Not allowed by cors
+25012025	20:02:16	12510f2b-fcc9-411b-b662-027b1c99ba97	Error: Not allowed by cors
+25012025	20:02:16	b381db07-7349-486c-9477-b9b987ae3131	Error: Not allowed by cors
+25012025	21:49:03	0eecc370-3b1b-44eb-ab69-9318c86b6ed2	ReferenceError: res is not defined
+25012025	21:49:12	23f0accd-027d-4a02-bb52-39df3ce637d3	ReferenceError: res is not defined
+25012025	23:54:35	a813f238-43ea-46ee-b450-a085b4cef137	ReferenceError: setEmployees is not defined
+26012025	00:16:26	dcbccf7a-7cc2-4d89-898e-aeb6bf3397ef	ReferenceError: setEmployees is not defined
+26012025	00:17:54	15d9c075-aedb-4348-b8aa-2b6496d5a6e7	TypeError: Cannot read properties of undefined (reading 'find')
+26012025	00:18:03	d7714875-3cb0-4da6-b161-4f690eeb3efd	TypeError: Cannot read properties of undefined (reading 'find')
+26012025	00:18:06	c2b9814e-6325-40ac-a90d-1f4955e6de23	ReferenceError: setEmployees is not defined
+26012025	00:19:59	6c9e7c76-7742-4849-ada4-96a9aa150730	TypeError: Cannot read properties of undefined (reading 'find')
+26012025	00:21:33	47b64b99-dfe0-4123-be3f-52de13efcdce	TypeError: Cannot read properties of undefined (reading 'find')
+26012025	00:21:34	d634ee0c-8f4b-430b-a8a5-11c29d500f11	TypeError: Cannot read properties of undefined (reading 'find')
+26012025	00:21:36	a595527b-20a7-459b-bd08-c990bc4f5c53	TypeError: Cannot read properties of undefined (reading 'find')
+26012025	00:23:15	93bce81b-8c95-4579-84ab-01fcc93b0149	TypeError: Cannot read properties of undefined (reading 'find')
+26012025	00:23:16	48c2ea1f-3515-44bb-abd4-a1282b6f9fac	TypeError: Cannot read properties of undefined (reading 'find')
+26012025	00:23:16	702a82c9-a37c-481c-a50a-e41cf77e4730	TypeError: Cannot read properties of undefined (reading 'find')
+26012025	00:23:17	0630a933-ffa1-496e-a91a-eef1b461b2bc	TypeError: Cannot read properties of undefined (reading 'find')
+26012025	00:23:17	bdb2618b-fa49-40fb-9b11-4a2fa7c18846	TypeError: Cannot read properties of undefined (reading 'find')
+26012025	00:23:17	6de3153c-aabe-4ee9-a1dc-49b753a08b43	TypeError: Cannot read properties of undefined (reading 'find')
+26012025	00:23:17	c74b0617-bc59-4386-9f95-ae5e5befd85f	TypeError: Cannot read properties of undefined (reading 'find')
+26012025	00:23:18	a066f94c-739c-4695-ba24-8ad73d986096	TypeError: Cannot read properties of undefined (reading 'find')
+26012025	00:23:19	1d7df458-d212-45c4-ad9d-4111024b6b03	TypeError: Cannot read properties of undefined (reading 'find')
+26012025	00:25:17	2660dd9d-1e9a-4f91-81a7-c5f5a812c34a	TypeError: Cannot read properties of undefined (reading 'find')
+26012025	00:26:49	c3815cf2-b7a5-49f3-a9eb-d1be503e1065	TypeError: Cannot read properties of undefined (reading 'filter')
+26012025	00:27:46	e5330abe-9599-437c-9e4c-912238a39060	TypeError: data.employee is not iterable
+26012025	00:27:47	1ac936a3-a77f-45fd-b71a-3dd902fc4b0c	TypeError: data.employee is not iterable
+26012025	00:28:25	d94ff192-09dd-43cf-a9c6-3173721bee49	ReferenceError: bid is not defined

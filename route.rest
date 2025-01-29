@@ -1,0 +1,32 @@
+GET http://localhost:3502/employees
+
+###
+GET http://localhost:3502/employees/65
+
+###
+POST http://localhost:3502/employees
+Content-Type: application/json
+
+{
+    "firstname" : "Prabhakaran",
+    "lastname" : "Haribaskar"
+
+}
+
+###
+PUT http://localhost:3502/employees
+Content-Type: application/json
+
+{   "id": 4,
+    "firstname" : "Lakshmi",
+    "lastname" : "Thangavel"
+
+}
+
+###
+DELETE http://localhost:3502/employees
+Content-Type: application/json
+
+{
+   "id": 4
+}
