@@ -6,20 +6,35 @@ const errorHandler = require("./middleWare/errorHandler")
 const cors = require("cors")
 const corsOption = require("./config/corsOption")
 const PORT = process.env.PORT || 3502
+const verifyJWT = require("./middleWare/verifyJWT")
+const cookieParser = require("cookie-parser")
 
 
-app.use(logger)
+// custom middleware logger
+app.use(logger);
 
-app.use(cors(corsOption))
+// cross origin resource sharing
+app.use(cors(corsOption));
 
-app.use(express.urlencoded({extended:false}))
 
-app.use(express.json())
+// built-in middleware to handle urlencoded form data
+app.use(express.urlencoded({extended:false}));
+
+// built-in middleware for json 
+app.use(express.json());
+
+// middleware for cookies
+app.use(cookieParser());
 
 app.use("/",express.static(path.join(__dirname,"./public")))
 app.use("/subdir",express.static(path.join(__dirname,"./public")))
 
 app.use("/",require("./routes/root"))
+app.use("/register", require("./routes/register"))
+app.use("/login",require("./routes/auth"))
+app.use("/refresh",require("./routes/refresh"))
+app.use("/logout",require("./routes/logout"))
+app.use(verifyJWT)
 app.use("/subdir",require("./routes/subdir"))    // you can give any name in subdir
 app.use("/employees",require("./routes/api/employees"))
 

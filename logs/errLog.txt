@@ -125,3 +125,8 @@
 26012025	00:27:46	e5330abe-9599-437c-9e4c-912238a39060	TypeError: data.employee is not iterable
 26012025	00:27:47	1ac936a3-a77f-45fd-b71a-3dd902fc4b0c	TypeError: data.employee is not iterable
 26012025	00:28:25	d94ff192-09dd-43cf-a9c6-3173721bee49	ReferenceError: bid is not defined
+29012025	15:50:42	89817dd2-b55e-40e1-a3cc-1e56e1fe2b03	SyntaxError: Unexpected token u in JSON at position 6
+29012025	15:51:06	ee21a4e4-034f-4227-92b7-09418f508ed1	SyntaxError: Unexpected token } in JSON at position 28
+29012025	15:51:14	867b0691-4c65-4e25-8d25-9a04210cf293	SyntaxError: Unexpected token } in JSON at position 28
+29012025	15:51:15	c365177b-0aa4-4e14-ba8a-ca9fa7126734	SyntaxError: Unexpected token } in JSON at position 28
+29012025	22:30:40	a381d0e3-6e4a-448e-af9f-4cccef85b115	TypeError: authHeader.spilt is not a function

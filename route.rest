@@ -1,7 +1,7 @@
 GET http://localhost:3502/employees
 
 ###
-GET http://localhost:3502/employees/65
+GET http://localhost:3502/employees/1
 
 ###
 POST http://localhost:3502/employees
@@ -29,4 +29,24 @@ Content-Type: application/json
 
 {
    "id": 4
+}
+
+
+
+###
+POST http://localhost:3502/register
+Content-Type: application/json
+
+{
+    "user" : "",
+    "pwd" : ""
+}
+
+###
+POST http://localhost:3502/login
+Content-Type: application/json
+
+{
+    "user" : "Prabhakar",
+    "pwd" : "1605Prabhu@"
 }
